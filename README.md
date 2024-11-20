@@ -1,4 +1,4 @@
 # X-RPG
-Deathmatch (C-BUG, Headshot and Normal)
+Deathmatch (0%)
 
 Duel System (0%)
