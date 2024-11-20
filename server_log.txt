@@ -1,0 +1,810 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:23:46] password = ""  (string)
+[13:23:46] 
+[13:23:46] Server Plugins
+[13:23:46] --------------
+[13:23:46]  Loading plugin: crashdetect
+[13:23:46]   CrashDetect plugin 4.22
+[13:23:46]   Loaded.
+[13:23:46]  Loading plugin: mysql
+[13:23:46]  >> plugin.mysql: R41-4 successfully loaded.
+[13:23:46]   Loaded.
+[13:23:46]  Loaded 2 plugins.
+
+[13:23:46] I couldn't load any gamemode scripts. Please verify your server.cfg
+[13:23:46] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:24:11] password = ""  (string)
+[13:24:11] filterscripts = ""  (string)
+[13:24:11] 
+[13:24:11] Server Plugins
+[13:24:11] --------------
+[13:24:11]  Loading plugin: crashdetect
+[13:24:11]   CrashDetect plugin 4.22
+[13:24:11]   Loaded.
+[13:24:11]  Loading plugin: mysql
+[13:24:11]  >> plugin.mysql: R41-4 successfully loaded.
+[13:24:11]   Loaded.
+[13:24:11]  Loaded 2 plugins.
+
+[13:24:11] 
+[13:24:11] Filterscripts
+[13:24:11] ---------------
+[13:24:11]   Loaded 0 filterscripts.
+
+[13:24:11] [debug] Run time error 19: "File or function is not found"
+[13:24:11] [debug]  bcrypt_get_hash
+[13:24:11] [debug]  bcrypt_hash
+[13:24:11] [debug]  bcrypt_verify
+[13:24:11] [debug] Run time error 19: "File or function is not found"
+[13:24:11] [debug]  bcrypt_get_hash
+[13:24:11] [debug]  bcrypt_hash
+[13:24:11] [debug]  bcrypt_verify
+[13:24:11] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[13:24:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:24:31] password = ""  (string)
+[13:24:31] filterscripts = ""  (string)
+[13:24:31] 
+[13:24:31] Server Plugins
+[13:24:31] --------------
+[13:24:31]  Loading plugin: crashdetect
+[13:24:31]   CrashDetect plugin 4.22
+[13:24:31]   Loaded.
+[13:24:31]  Loading plugin: mysql
+[13:24:32]  >> plugin.mysql: R41-4 successfully loaded.
+[13:24:32]   Loaded.
+[13:24:32]  Loading plugin: samp_bcrypt
+[13:24:32] [SampBcrypt] [info]: Version: 0.4.1
+[13:24:32]   Loaded.
+[13:24:32]  Loaded 3 plugins.
+
+[13:24:32] 
+[13:24:32] Filterscripts
+[13:24:32] ---------------
+[13:24:32]   Loaded 0 filterscripts.
+
+[13:24:32] Success to connect MYSQL
+[13:24:32] Basic Register And Login Mysql Bcrypt Loaded!
+[13:24:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:24:55] password = ""  (string)
+[13:24:56] filterscripts = ""  (string)
+[13:24:56] 
+[13:24:56] Server Plugins
+[13:24:56] --------------
+[13:24:56]  Loading plugin: crashdetect
+[13:24:56]   CrashDetect plugin 4.22
+[13:24:56]   Loaded.
+[13:24:56]  Loading plugin: mysql
+[13:24:56]  >> plugin.mysql: R41-4 successfully loaded.
+[13:24:56]   Loaded.
+[13:24:56]  Loading plugin: samp_bcrypt
+[13:24:56] [SampBcrypt] [info]: Version: 0.4.1
+[13:24:56]   Loaded.
+[13:24:56]  Loaded 3 plugins.
+
+[13:24:56] 
+[13:24:56] Filterscripts
+[13:24:56] ---------------
+[13:24:56]   Loaded 0 filterscripts.
+
+[13:24:56] [debug] Run time error 19: "File or function is not found"
+[13:24:56] [debug]  bcrypt_check
+[13:24:56] [debug]  bcrypt_is_equal
+[13:24:56] [debug] Run time error 19: "File or function is not found"
+[13:24:56] [debug]  bcrypt_check
+[13:24:56] [debug]  bcrypt_is_equal
+[13:24:56] Script[gamemodes/zu.amx]: Run time error 19: "File or function is not found"
+[13:24:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:25:06] password = ""  (string)
+[13:25:06] filterscripts = ""  (string)
+[13:25:06] 
+[13:25:06] Server Plugins
+[13:25:06] --------------
+[13:25:06]  Loading plugin: crashdetect
+[13:25:06]   CrashDetect plugin 4.22
+[13:25:06]   Loaded.
+[13:25:06]  Loading plugin: mysql
+[13:25:06]  >> plugin.mysql: R41-4 successfully loaded.
+[13:25:06]   Loaded.
+[13:25:06]  Loading plugin: samp_bcrypt
+[13:25:06] [SampBcrypt] [info]: Version: 0.4.1
+[13:25:06]   Loaded.
+[13:25:06]  Loaded 3 plugins.
+
+[13:25:06] 
+[13:25:06] Filterscripts
+[13:25:06] ---------------
+[13:25:06]   Loaded 0 filterscripts.
+
+[13:25:06] Success to connect MYSQL
+[13:25:06] Basic Register And Login Mysql Bcrypt Loaded!
+[13:25:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:27:10] password = ""  (string)
+[13:27:10] filterscripts = ""  (string)
+[13:27:10] 
+[13:27:10] Server Plugins
+[13:27:10] --------------
+[13:27:10]  Loading plugin: crashdetect
+[13:27:10]   CrashDetect plugin 4.22
+[13:27:10]   Loaded.
+[13:27:10]  Loading plugin: mysql
+[13:27:10]  >> plugin.mysql: R41-4 successfully loaded.
+[13:27:10]   Loaded.
+[13:27:10]  Loading plugin: samp_bcrypt
+[13:27:10] [SampBcrypt] [info]: Version: 0.4.1
+[13:27:10]   Loaded.
+[13:27:10]  Loaded 3 plugins.
+
+[13:27:10] 
+[13:27:10] Filterscripts
+[13:27:10] ---------------
+[13:27:10]   Loaded 0 filterscripts.
+
+[13:27:10] Success to connect MYSQL
+[13:27:10] Basic Register And Login Mysql Bcrypt Loaded!
+[13:27:10] Number of vehicle models: 0
+[13:28:12] [connection] incoming connection: 127.0.0.1:63722 id: 0
+[13:28:12] [join] Coxes has joined the server (0:127.0.0.1)
+[13:28:55] [part] Coxes has left the server (0:1)
+Console input: gmx
+[13:50:54] Success to connect MYSQL
+[13:50:54] Basic Register And Login Mysql Bcrypt Loaded!
+[13:50:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:51:37] password = ""  (string)
+[13:51:37] 
+[13:51:37] Server Plugins
+[13:51:37] --------------
+[13:51:37]  Loading plugin: crashdetect
+[13:51:37]   CrashDetect plugin 4.22
+[13:51:37]   Loaded.
+[13:51:37]  Loading plugin: mysql
+[13:51:37]  >> plugin.mysql: R41-4 successfully loaded.
+[13:51:37]   Loaded.
+[13:51:37]  Loading plugin: samp_bcrypt
+[13:51:37] [SampBcrypt] [info]: Version: 0.4.1
+[13:51:37]   Loaded.
+[13:51:37]  Loaded 3 plugins.
+
+[13:51:37] 
+[13:51:37] Filterscripts
+[13:51:37] ---------------
+[13:51:37]   Loading filterscript 'android-check.amx'...
+[13:51:38] Android check has been successfully loaded.
+[13:51:38]   Loaded 1 filterscripts.
+
+[13:51:38] Success to connect MYSQL
+[13:51:38] Basic Register And Login Mysql Bcrypt Loaded!
+[13:51:38] Number of vehicle models: 0
+[13:52:24] [connection] incoming connection: 127.0.0.1:61235 id: 0
+[13:52:24] [join] Coxes has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:56:12] password = ""  (string)
+[13:56:12] 
+[13:56:12] Server Plugins
+[13:56:12] --------------
+[13:56:12]  Loading plugin: crashdetect
+[13:56:12]   CrashDetect plugin 4.22
+[13:56:12]   Loaded.
+[13:56:12]  Loading plugin: mysql
+[13:56:12]  >> plugin.mysql: R41-4 successfully loaded.
+[13:56:12]   Loaded.
+[13:56:12]  Loading plugin: samp_bcrypt
+[13:56:12] [SampBcrypt] [info]: Version: 0.4.1
+[13:56:12]   Loaded.
+[13:56:12]  Loaded 3 plugins.
+
+[13:56:13] 
+[13:56:13] Filterscripts
+[13:56:13] ---------------
+[13:56:13]   Loading filterscript 'android-check.amx'...
+[13:56:13] Android check has been successfully loaded.
+[13:56:13]   Loaded 1 filterscripts.
+
+[13:56:13] Success to connect MYSQL
+[13:56:13] Basic Register And Login Mysql Bcrypt Loaded!
+[13:56:13] Number of vehicle models: 0
+[13:56:31] [connection] incoming connection: 127.0.0.1:64634 id: 0
+[13:56:31] [join] Coxes has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:09:35] password = ""  (string)
+[14:09:35] 
+[14:09:35] Server Plugins
+[14:09:35] --------------
+[14:09:35]  Loading plugin: crashdetect
+[14:09:35]   CrashDetect plugin 4.22
+[14:09:35]   Loaded.
+[14:09:35]  Loading plugin: mysql
+[14:09:35]  >> plugin.mysql: R41-4 successfully loaded.
+[14:09:35]   Loaded.
+[14:09:35]  Loading plugin: samp_bcrypt
+[14:09:35] [SampBcrypt] [info]: Version: 0.4.1
+[14:09:35]   Loaded.
+[14:09:35]  Loaded 3 plugins.
+
+[14:09:36] 
+[14:09:36] Filterscripts
+[14:09:36] ---------------
+[14:09:36]   Loading filterscript 'android-check.amx'...
+[14:09:36] Android check has been successfully loaded.
+[14:09:36]   Loaded 1 filterscripts.
+
+[14:09:36] Success to connect MYSQL
+[14:09:36] Basic Register And Login Mysql Bcrypt Loaded!
+[14:09:36] Number of vehicle models: 0
+[14:09:54] [connection] incoming connection: 127.0.0.1:62300 id: 0
+[14:09:55] [join] Coxes has joined the server (0:127.0.0.1)
+[14:11:33] [part] Coxes has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:12:50] password = ""  (string)
+[14:12:50] 
+[14:12:50] Server Plugins
+[14:12:50] --------------
+[14:12:50]  Loading plugin: crashdetect
+[14:12:50]   CrashDetect plugin 4.22
+[14:12:50]   Loaded.
+[14:12:50]  Loading plugin: mysql
+[14:12:50]  >> plugin.mysql: R41-4 successfully loaded.
+[14:12:50]   Loaded.
+[14:12:50]  Loading plugin: samp_bcrypt
+[14:12:50] [SampBcrypt] [info]: Version: 0.4.1
+[14:12:50]   Loaded.
+[14:12:50]  Loaded 3 plugins.
+
+[14:12:50] 
+[14:12:50] Filterscripts
+[14:12:50] ---------------
+[14:12:50]   Loading filterscript 'android-check.amx'...
+[14:12:50] Android check has been successfully loaded.
+[14:12:50]   Loaded 1 filterscripts.
+
+[14:12:50] Success to connect MYSQL
+[14:12:50] Basic Register And Login Mysql Bcrypt Loaded!
+[14:12:50] Number of vehicle models: 0
+[14:13:08] [connection] incoming connection: 127.0.0.1:50685 id: 0
+[14:13:08] [join] Coxes has joined the server (0:127.0.0.1)
+[14:14:29] [part] Coxes has left the server (0:1)
+[14:15:32] [connection] incoming connection: 127.0.0.1:54864 id: 0
+[14:15:32] [join] Coxes has joined the server (0:127.0.0.1)
+[14:43:55] [part] Coxes has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:58:54] password = ""  (string)
+[14:58:54] 
+[14:58:54] Server Plugins
+[14:58:54] --------------
+[14:58:54]  Loading plugin: crashdetect
+[14:58:54]   CrashDetect plugin 4.22
+[14:58:54]   Loaded.
+[14:58:54]  Loading plugin: mysql
+[14:58:54]  >> plugin.mysql: R41-4 successfully loaded.
+[14:58:54]   Loaded.
+[14:58:54]  Loading plugin: samp_bcrypt
+[14:58:54] [SampBcrypt] [info]: Version: 0.4.1
+[14:58:54]   Loaded.
+[14:58:54]  Loaded 3 plugins.
+
+[14:58:54] 
+[14:58:54] Filterscripts
+[14:58:54] ---------------
+[14:58:54]   Loading filterscript 'android-check.amx'...
+[14:58:54] Android check has been successfully loaded.
+[14:58:54]   Loaded 1 filterscripts.
+
+[14:58:54] [debug] Run time error 19: "File or function is not found"
+[14:58:54] [debug]  FreezeSyncData
+[14:58:54] [debug]  SetFakeFacingAngle
+[14:58:54] [debug]  SendLastSyncData
+[14:58:54] [debug]  ClearAnimationsForPlayer
+[14:58:54] [debug]  SetKnifeSync
+[14:58:54] [debug]  SetFakeHealth
+[14:58:54] [debug]  SetFakeArmour
+[14:58:54] [debug]  PlayerTextDrawSetPosition
+[14:58:54] [debug]  SpawnPlayerForWorld
+[14:58:54] [debug] Run time error 19: "File or function is not found"
+[14:58:54] [debug]  FreezeSyncData
+[14:58:54] [debug]  SetFakeFacingAngle
+[14:58:54] [debug]  SendLastSyncData
+[14:58:54] [debug]  ClearAnimationsForPlayer
+[14:58:54] [debug]  SetKnifeSync
+[14:58:54] [debug]  SetFakeHealth
+[14:58:54] [debug]  SetFakeArmour
+[14:58:54] [debug]  PlayerTextDrawSetPosition
+[14:58:54] [debug]  SpawnPlayerForWorld
+[14:58:54] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[14:58:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:59:42] password = ""  (string)
+[14:59:42] 
+[14:59:42] Server Plugins
+[14:59:42] --------------
+[14:59:42]  Loading plugin: crashdetect
+[14:59:42]   CrashDetect plugin 4.22
+[14:59:42]   Loaded.
+[14:59:42]  Loading plugin: mysql
+[14:59:42]  >> plugin.mysql: R41-4 successfully loaded.
+[14:59:42]   Loaded.
+[14:59:42]  Loading plugin: samp_bcrypt
+[14:59:42] [SampBcrypt] [info]: Version: 0.4.1
+[14:59:42]   Loaded.
+[14:59:42]  Loading plugin: pawnraknet
+[14:59:42] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[14:59:42]   Loaded.
+[14:59:42]  Loaded 4 plugins.
+
+[14:59:42] 
+[14:59:42] Filterscripts
+[14:59:42] ---------------
+[14:59:42]   Loading filterscript 'android-check.amx'...
+[14:59:42] Android check has been successfully loaded.
+[14:59:42]   Loaded 1 filterscripts.
+
+[14:59:42] [debug] Run time error 19: "File or function is not found"
+[14:59:42] [debug]  FreezeSyncData
+[14:59:42] [debug]  SetFakeFacingAngle
+[14:59:42] [debug]  SendLastSyncData
+[14:59:42] [debug]  ClearAnimationsForPlayer
+[14:59:42] [debug]  SetKnifeSync
+[14:59:42] [debug]  SetFakeHealth
+[14:59:42] [debug]  SetFakeArmour
+[14:59:42] [debug]  PlayerTextDrawSetPosition
+[14:59:42] [debug]  SpawnPlayerForWorld
+[14:59:42] [debug] Run time error 19: "File or function is not found"
+[14:59:42] [debug]  FreezeSyncData
+[14:59:42] [debug]  SetFakeFacingAngle
+[14:59:42] [debug]  SendLastSyncData
+[14:59:42] [debug]  ClearAnimationsForPlayer
+[14:59:42] [debug]  SetKnifeSync
+[14:59:42] [debug]  SetFakeHealth
+[14:59:42] [debug]  SetFakeArmour
+[14:59:42] [debug]  PlayerTextDrawSetPosition
+[14:59:42] [debug]  SpawnPlayerForWorld
+[14:59:42] Script[gamemodes/bare.amx]: Run time error 19: "File or function is not found"
+[14:59:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:00:57] password = ""  (string)
+[15:00:57] 
+[15:00:57] Server Plugins
+[15:00:57] --------------
+[15:00:57]  Loading plugin: crashdetect
+[15:00:57]   CrashDetect plugin 4.22
+[15:00:57]   Loaded.
+[15:00:57]  Loading plugin: mysql
+[15:00:57]  >> plugin.mysql: R41-4 successfully loaded.
+[15:00:57]   Loaded.
+[15:00:57]  Loading plugin: samp_bcrypt
+[15:00:57] [SampBcrypt] [info]: Version: 0.4.1
+[15:00:57]   Loaded.
+[15:00:57]  Loading plugin: pawnraknet
+[15:00:57] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[15:00:57]   Loaded.
+[15:00:57]  Loading plugin: SKY
+[15:00:57] 
+[15:00:57]  ===============================
+[15:00:57]    
+[15:00:57]    < SKY - 2.2.2 >
+[15:00:57]    
+[15:00:57]    (c) 2008 - Present | YSF Maintainers
+[15:00:57]    (c) 2015 | Oscar "Slice" Broman
+[15:00:57]    
+[15:00:57]    Server Version: 0.3.7 R2
+[15:00:57]    Operating System: Windows
+[15:00:57]    Built on: Jan 20 2020 at 22:21:16
+[15:00:57]    
+[15:00:57]  ===============================
+[15:00:57] 
+[15:00:57]   Loaded.
+[15:00:57]  Loaded 5 plugins.
+
+[15:00:57] 
+[15:00:57] Filterscripts
+[15:00:57] ---------------
+[15:00:57]   Loading filterscript 'android-check.amx'...
+[15:00:57] Android check has been successfully loaded.
+[15:00:57]   Loaded 1 filterscripts.
+
+[15:00:57] Success to connect MYSQL
+[15:00:57] Basic Register And Login Mysql Bcrypt Loaded!
+[15:00:57] Number of vehicle models: 0
+[15:01:24] [connection] incoming connection: 127.0.0.1:58948 id: 0
+[15:01:25] [join] Coxes has joined the server (0:127.0.0.1)
+[15:11:21] [debug] Long callback execution detected (hang or performance issue)
+[15:11:21] [debug] AMX backtrace:
+[15:11:21] [debug] #0 00003a48 in public OnPlayerDisconnect (0, 1) in bare.amx
+[15:11:21] [part] Coxes has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:20:42] password = ""  (string)
+[15:20:42] 
+[15:20:42] Server Plugins
+[15:20:42] --------------
+[15:20:42]  Loading plugin: crashdetect
+[15:20:42]   CrashDetect plugin 4.22
+[15:20:42]   Loaded.
+[15:20:42]  Loading plugin: mysql
+[15:20:42]  >> plugin.mysql: R41-4 successfully loaded.
+[15:20:42]   Loaded.
+[15:20:42]  Loading plugin: samp_bcrypt
+[15:20:42] [SampBcrypt] [info]: Version: 0.4.1
+[15:20:42]   Loaded.
+[15:20:42]  Loading plugin: pawnraknet
+[15:20:42] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[15:20:42]   Loaded.
+[15:20:42]  Loading plugin: SKY
+[15:20:42] 
+[15:20:42]  ===============================
+[15:20:42]    
+[15:20:42]    < SKY - 2.2.2 >
+[15:20:42]    
+[15:20:42]    (c) 2008 - Present | YSF Maintainers
+[15:20:42]    (c) 2015 | Oscar "Slice" Broman
+[15:20:42]    
+[15:20:42]    Server Version: 0.3.7 R2
+[15:20:42]    Operating System: Windows
+[15:20:42]    Built on: Jan 20 2020 at 22:21:16
+[15:20:42]    
+[15:20:42]  ===============================
+[15:20:42] 
+[15:20:42]   Loaded.
+[15:20:42]  Loaded 5 plugins.
+
+[15:20:42] 
+[15:20:42] Filterscripts
+[15:20:42] ---------------
+[15:20:42]   Loading filterscript 'android-check.amx'...
+[15:20:42] Android check has been successfully loaded.
+[15:20:42]   Loaded 1 filterscripts.
+
+[15:20:42] Success to connect MYSQL
+[15:20:42] Basic Register And Login Mysql Bcrypt Loaded!
+[15:20:42] Number of vehicle models: 0
+[15:21:04] [connection] incoming connection: 127.0.0.1:59876 id: 0
+[15:21:04] [join] Coxes has joined the server (0:127.0.0.1)
+[15:21:18] [part] Coxes has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:21:55] password = ""  (string)
+[15:21:55] 
+[15:21:55] Server Plugins
+[15:21:55] --------------
+[15:21:55]  Loading plugin: crashdetect
+[15:21:55]   CrashDetect plugin 4.22
+[15:21:55]   Loaded.
+[15:21:55]  Loading plugin: mysql
+[15:21:55]  >> plugin.mysql: R41-4 successfully loaded.
+[15:21:55]   Loaded.
+[15:21:55]  Loading plugin: samp_bcrypt
+[15:21:55] [SampBcrypt] [info]: Version: 0.4.1
+[15:21:55]   Loaded.
+[15:21:55]  Loading plugin: pawnraknet
+[15:21:55] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[15:21:55]   Loaded.
+[15:21:55]  Loading plugin: SKY
+[15:21:55] 
+[15:21:55]  ===============================
+[15:21:55]    
+[15:21:55]    < SKY - 2.2.2 >
+[15:21:55]    
+[15:21:55]    (c) 2008 - Present | YSF Maintainers
+[15:21:55]    (c) 2015 | Oscar "Slice" Broman
+[15:21:55]    
+[15:21:55]    Server Version: 0.3.7 R2
+[15:21:55]    Operating System: Windows
+[15:21:55]    Built on: Jan 20 2020 at 22:21:16
+[15:21:55]    
+[15:21:55]  ===============================
+[15:21:55] 
+[15:21:55]   Loaded.
+[15:21:55]  Loaded 5 plugins.
+
+[15:21:55] 
+[15:21:55] Filterscripts
+[15:21:55] ---------------
+[15:21:55]   Loading filterscript 'android-check.amx'...
+[15:21:55] Android check has been successfully loaded.
+[15:21:55]   Loaded 1 filterscripts.
+
+[15:21:55] Success to connect MYSQL
+[15:21:55] Basic Register And Login Mysql Bcrypt Loaded!
+[15:21:55] Number of vehicle models: 0
+[15:22:15] [connection] incoming connection: 127.0.0.1:51187 id: 0
+[15:22:15] [join] Coxes has joined the server (0:127.0.0.1)
+[15:24:11] [part] Coxes has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:20:09] password = ""  (string)
+[13:20:09] 
+[13:20:09] Server Plugins
+[13:20:09] --------------
+[13:20:09]  Loading plugin: crashdetect
+[13:20:09]   CrashDetect plugin 4.22
+[13:20:09]   Loaded.
+[13:20:09]  Loading plugin: mysql
+[13:20:09]  >> plugin.mysql: R41-4 successfully loaded.
+[13:20:09]   Loaded.
+[13:20:09]  Loading plugin: samp_bcrypt
+[13:20:09] [SampBcrypt] [info]: Version: 0.4.1
+[13:20:09]   Loaded.
+[13:20:09]  Loading plugin: pawnraknet
+[13:20:10] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[13:20:10]   Loaded.
+[13:20:10]  Loading plugin: SKY
+[13:20:10] 
+[13:20:10]  ===============================
+[13:20:10]    
+[13:20:10]    < SKY - 2.2.2 >
+[13:20:10]    
+[13:20:10]    (c) 2008 - Present | YSF Maintainers
+[13:20:10]    (c) 2015 | Oscar "Slice" Broman
+[13:20:10]    
+[13:20:10]    Server Version: 0.3.7 R2
+[13:20:10]    Operating System: Windows
+[13:20:10]    Built on: Jan 20 2020 at 22:21:16
+[13:20:10]    
+[13:20:10]  ===============================
+[13:20:10] 
+[13:20:10]   Loaded.
+[13:20:10]  Loaded 5 plugins.
+
+[13:20:10] 
+[13:20:10] Filterscripts
+[13:20:10] ---------------
+[13:20:10]   Loading filterscript 'android-check.amx'...
+[13:20:10] Android check has been successfully loaded.
+[13:20:10]   Loaded 1 filterscripts.
+
+[13:20:10] Success to connect MYSQL
+[13:20:10] GON RPG ONLINE!
+[13:20:10] Number of vehicle models: 0
+[13:20:45] [connection] incoming connection: 127.0.0.1:50964 id: 0
+[13:20:45] [join] Coxes has joined the server (0:127.0.0.1)
+Console input: gmx
+[13:22:15] Success to connect MYSQL
+[13:22:15] GON RPG ONLINE!
+[13:22:15] Number of vehicle models: 0
+Console input: gmx
+[13:24:25] [debug] Long callback execution detected (hang or performance issue)
+[13:24:25] [debug] AMX backtrace:
+[13:24:25] [debug] #0 0000d84c in ?? () in bare.amx
+[13:24:25] [debug] #1 00002614 in public zcmd_OnGameModeInit () in bare.amx
+[13:24:25] [debug] #2 native CallLocalFunction () in samp-server.exe
+[13:24:25] [debug] #3 00000a20 in public OnGameModeInit () in bare.amx
+[13:24:25] Success to connect MYSQL
+[13:24:25] Actor ID 0 has 100.00 health.
+[13:24:25] GON RPG ONLINE!
+[13:24:25] Number of vehicle models: 0
+Console input: gmx
+[13:28:49] Success to connect MYSQL
+[13:28:49] Actor ID 0 has 100.00 health.
+[13:28:50] GON RPG ONLINE!
+[13:28:50] Number of vehicle models: 0
+Console input: gmx
+[13:30:20] Success to connect MYSQL
+[13:30:20] Actor ID 0 has 100.00 health.
+[13:30:20] GON RPG ONLINE!
+[13:30:20] Number of vehicle models: 0
+Console input: gmx
+[13:55:56] Success to connect MYSQL
+[13:55:56] Actor ID 0 has 100.00 health.
+[13:55:56] GON RPG ONLINE!
+[13:55:56] Number of vehicle models: 0
+Console input: gmx
+[13:59:56] Success to connect MYSQL
+[13:59:56] Actor ID 0 has 100.00 health.
+[13:59:56] GON RPG ONLINE!
+[13:59:56] Number of vehicle models: 0
+Console input: gmx
+[14:01:45] Success to connect MYSQL
+[14:01:45] Actor ID 0 has 100.00 health.
+[14:01:45] GON RPG ONLINE!
+[14:01:45] Number of vehicle models: 0
+Console input: gm
+Console input: gmx
+[14:03:56] Success to connect MYSQL
+[14:03:56] Actor ID 0 has 100.00 health.
+[14:03:56] GON RPG ONLINE!
+[14:03:56] Number of vehicle models: 0
+Console input: gmx
+[14:05:47] Success to connect MYSQL
+[14:05:47] Actor ID 0 has 100.00 health.
+[14:05:47] GON RPG ONLINE!
+[14:05:47] Number of vehicle models: 0
+Console input: gmx
+[14:07:38] Success to connect MYSQL
+[14:07:38] Actor ID 0 has 100.00 health.
+[14:07:38] GON RPG ONLINE!
+[14:07:38] Number of vehicle models: 0
+[14:07:56] [part] Coxes has left the server (0:0)
+[14:08:07] [connection] incoming connection: 127.0.0.1:63998 id: 0
+[14:08:08] [join] Coxes has joined the server (0:127.0.0.1)
+Console input: gmx
+[14:10:56] Success to connect MYSQL
+[14:10:56] Actor ID 0 has 100.00 health.
+[14:10:56] GON RPG ONLINE!
+[14:10:56] Number of vehicle models: 0
+[14:11:49] [part] Coxes has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:14:28] password = ""  (string)
+[20:14:28] 
+[20:14:28] Server Plugins
+[20:14:28] --------------
+[20:14:28]  Loading plugin: crashdetect
+[20:14:28]   CrashDetect plugin 4.22
+[20:14:28]   Loaded.
+[20:14:28]  Loading plugin: mysql
+[20:14:28]  >> plugin.mysql: R41-4 successfully loaded.
+[20:14:28]   Loaded.
+[20:14:28]  Loading plugin: samp_bcrypt
+[20:14:28] [SampBcrypt] [info]: Version: 0.4.1
+[20:14:28]   Loaded.
+[20:14:28]  Loading plugin: pawnraknet
+[20:14:28] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[20:14:28]   Loaded.
+[20:14:28]  Loading plugin: SKY
+[20:14:29] 
+[20:14:29]  ===============================
+[20:14:29]    
+[20:14:29]    < SKY - 2.2.2 >
+[20:14:29]    
+[20:14:29]    (c) 2008 - Present | YSF Maintainers
+[20:14:29]    (c) 2015 | Oscar "Slice" Broman
+[20:14:29]    
+[20:14:29]    Server Version: 0.3.7 R2
+[20:14:29]    Operating System: Windows
+[20:14:29]    Built on: Jan 20 2020 at 22:21:16
+[20:14:29]    
+[20:14:29]  ===============================
+[20:14:29] 
+[20:14:29]   Loaded.
+[20:14:29]  Loaded 5 plugins.
+
+[20:14:29] 
+[20:14:29] Filterscripts
+[20:14:29] ---------------
+[20:14:29]   Loading filterscript 'android-check.amx'...
+[20:14:29] Android check has been successfully loaded.
+[20:14:29]   Loaded 1 filterscripts.
+
+[20:14:29] Success to connect MYSQL
+[20:14:29] Actor ID 0 has 100.00 health.
+[20:14:29] GON RPG ONLINE!
+[20:14:29] Number of vehicle models: 0
+[20:16:07] [connection] incoming connection: 127.0.0.1:63362 id: 0
+[20:16:07] [join] Coxes has joined the server (0:127.0.0.1)
+[20:18:47] [part] Coxes has left the server (0:1)
